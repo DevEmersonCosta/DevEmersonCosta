@@ -1,10 +1,14 @@
- ## Emerson Costa
+ ## Emerson Costa &card_width=220
 
 - 🔍 A Procura do primeiro emprego
 - 👨‍🎓 Estudando Node.js
 
-![Emerson GitHub stats](https://github-readme-stats.vercel.app/api?username=devemersoncosta&show_icons=true&theme=shadow_red)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devemersoncosta&hide_progress=true)
+<a href="https://github.com/devemersoncosta/github-readme-stats">
+  <img height=115 align="center" src="https://github-readme-stats.vercel.app/api?username=devemersoncosta&show_icons=false&theme=shadow_red" />
+</a>
+<a href="https://github.com/devemersoncosta/convoychat">
+  <img height=1000 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devemersoncosta&hide_progress=true&theme=shadow_red" />
+</a>
 
 <div style="display: inline-block"><br>
   <img align="center" ant="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
