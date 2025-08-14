@@ -1,4 +1,4 @@
- ## Emerson Costa
+ ## __Emerson Costa__
 
 - 🔍 A Procura do primeiro emprego
 - 👨‍🎓 Estudando Node.js
