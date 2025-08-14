@@ -1,4 +1,4 @@
- ## Emerson Costa &card_width=220
+ ## Emerson Costa
 
 - 🔍 A Procura do primeiro emprego
 - 👨‍🎓 Estudando Node.js
