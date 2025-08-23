@@ -15,10 +15,25 @@
 <br>
 
 <div align="center">
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW9qMjQ5b3ZnOXMyN2k1ZjR4cTZoNjI3ZnV3YXFsYjV0cmVudjQxeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/adeKSwsJIesww/giphy.gif">
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXU4ZmoyZ2F3M2Z0NTR3cDc1cXRwb3Z4dDMwMGwzZmFmZWIwaTV3MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1zRfp0Jwsag4yPekP4/giphy.gif">
 </div>
 
 <br>
+<br>
+
+<div align="center">
+<img alt="Static Badge" src="https://img.shields.io/badge/%F0%92%89%AD%20007.-000?style=flat">
+</div>
+
+<br>
+
+<details align="center">  
+<summary>
+<samp>
+<b>More Info</b>
+</samp>
+</summary>
+  
 <br>
 
 <div align="center">
@@ -79,7 +94,9 @@
 <div align="center">
 <img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FDevEmersonCosta&s=25&c=000000&bg=00000000&no=2&ff=electrolize&tb=Intrusos%3D%22&ta=%22" alt="visits">
 </div>
+</details>
 
+<br>
 <br>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=000&section=footer">
