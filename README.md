@@ -38,6 +38,14 @@
 </picture><br>
 
 <div align="center">
+<img alt="Static Badge" src="https://img.shields.io/badge/gmail-000?style=for-the-badge&link=https%3A%2F%2Fwww.instagram.com%2Femerson_costaxd">
+<img alt="Static Badge" src="https://img.shields.io/badge/instagram-000?style=for-the-badge&link=https%3A%2F%2Fwww.instagram.com%2Femerson_costaxd">
+<img alt="Static Badge" src="https://img.shields.io/badge/youtube-000?style=for-the-badge&link=https%3A%2F%2Fwww.instagram.com%2Femerson_costaxd">
+<img alt="Static Badge" src="https://img.shields.io/badge/discord-000?style=for-the-badge&link=https%3A%2F%2Fwww.instagram.com%2Femerson_costaxd">
+<img alt="Static Badge" src="https://img.shields.io/badge/steam-000?style=for-the-badge&link=https%3A%2F%2Fwww.instagram.com%2Femerson_costaxd">
+</div><br>
+
+<div align="center">
 <img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FDevEmersonCosta&s=25&c=000000&bg=00000000&no=2&ff=electrolize&tb=Intrusos%3D%22&ta=%22" alt="visits">
 </div><br>
 
