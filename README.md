@@ -1,11 +1,11 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=000&section=header"/>
 
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=35&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=%3C%2FEmerson+Costa%2F%3E" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=700&size=35&pause=1000&color=000000&center=true&vCenter=true&width=700&lines=%3C%2F+Emerson+Costa+%2F%3E" alt="Typing SVG" /></a>
 </div><br>
 
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=25&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%8E%93Estudando+Node.JS" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=500&size=25&pause=1000&color=000000&center=true&vCenter=true&width=700&lines=%2F%2F+Estudando+Node.JS" alt="Typing SVG" /></a>
 </div><br>
 
 <div align="center">
@@ -38,15 +38,17 @@
 </picture><br>
 
 <div align="center">
-  <a href="https://www.instagram.com/emerson_costaxd" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=000&logoColor=white&labelColor=000&style=for-the-badge" height="25" alt="instagram logo"  />
-  </a>
-  <a href="https://discord.com/channels/@me" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=000&logoColor=white&labelColor=000&style=for-the-badge" height="25" alt="discord logo"  />
-  </a>
-  <a href="https://mail.google.com/mail/u/0/?pli=1#inbox" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=000&logoColor=white&labelColor=000&style=for-the-badge" height="25" alt="gmail logo"  />
-  </a>
+  <samp>
+    <b>
+      Contact me:
+    </b>
+  </samp>
+  <br>
+  <br>
+
+  [![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:emersoncurry72@gmail.com)
+  [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/emerson_costaxd/?next=%2F)
+  
 </div>
 
 <div align="center">
