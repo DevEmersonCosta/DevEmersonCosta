@@ -1,11 +1,11 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=cc0000&section=header&textBg=false"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=000&section=header"/>
 
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=35&pause=1000&color=CC0000&center=true&vCenter=true&width=435&lines=%3C%2FEmerson+Costa%2F%3E" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=35&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=%3C%2FEmerson+Costa%2F%3E" alt="Typing SVG" /></a>
 </div><br>
 
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=25&pause=1000&color=CC0000&center=true&vCenter=true&width=435&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%8E%93Estudando+Node.JS" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=25&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%8E%93Estudando+Node.JS" alt="Typing SVG" /></a>
 </div><br>
 
 <div align="center">
@@ -38,7 +38,7 @@
 </picture><br>
 
 <div align="center">
-<img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FDevEmersonCosta&s=25&c=c10101&bg=00000000&no=2&ff=electrolize&tb=Intruders%3D%22&ta=%22" alt="visits">
+<img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FDevEmersonCosta&s=25&c=000000&bg=00000000&no=2&ff=electrolize&tb=Intruders%3D%22&ta=%22" alt="visits">
 </div><br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=cc0000&section=footer">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=000&section=footer">
