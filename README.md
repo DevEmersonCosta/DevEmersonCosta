@@ -38,7 +38,7 @@
 </picture><br>
 
 <div align="center">
-<img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FDevEmersonCosta&s=25&c=000000&bg=00000000&no=2&ff=electrolize&tb=Intruders%3D%22&ta=%22" alt="visits">
+<img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FDevEmersonCosta&s=25&c=000000&bg=00000000&no=2&ff=electrolize&tb=Intrusos%3D%22&ta=%22" alt="visits">
 </div><br>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=000&section=footer">
