@@ -38,8 +38,16 @@
 </picture><br>
 
 <div align="center">
-<img alt="Static Badge" src="https://img.shields.io/badge/instagram-000?style=for-the-badge&logo=instagram&link=https%3A%2F%2Fwww.instagram.com%2Femerson_costaxd">
-</div><br>
+  <a href="https://www.instagram.com/emerson_costaxd" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=000&logoColor=white&labelColor=000&style=for-the-badge" height="25" alt="instagram logo"  />
+  </a>
+  <a href="https://discord.com/channels/@me" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=000&logoColor=white&labelColor=000&style=for-the-badge" height="25" alt="discord logo"  />
+  </a>
+  <a href="https://mail.google.com/mail/u/0/?pli=1#inbox" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=000&logoColor=white&labelColor=000&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
+</div>
 
 <div align="center">
 <img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FDevEmersonCosta&s=25&c=000000&bg=00000000&no=2&ff=electrolize&tb=Intrusos%3D%22&ta=%22" alt="visits">
