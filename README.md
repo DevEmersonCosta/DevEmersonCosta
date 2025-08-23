@@ -27,8 +27,8 @@
 
 <br>
 
-<details align="center">  
-<summary>
+<details>  
+<summary align="center">
 <samp>
 <b>More Info</b>
 </samp>
@@ -94,6 +94,15 @@
 <div align="center">
 <img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FDevEmersonCosta&s=25&c=000000&bg=00000000&no=2&ff=electrolize&tb=Intrusos%3D%22&ta=%22" alt="visits">
 </div>
+
+<br>
+<br>
+
+<div align="center">
+
+ [![Creditos](https://img.shields.io/badge/Creditos-000?style=flat&)](https://github.com/kamillyvm/kamillyvm)
+</div>
+
 </details>
 
 <br>
