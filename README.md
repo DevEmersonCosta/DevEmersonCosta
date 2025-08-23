@@ -27,7 +27,7 @@
   <img height=115 align="center" src="https://github-readme-stats.vercel.app/api?username=devemersoncosta&show_icons=false&theme=shadow_red" />
 </a>
 <a href="https://github.com/devemersoncosta/convoychat">
-  <img height=1000 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devemersoncosta&hide_progress=true&theme=shadow_red" />
+  <img height=115 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devemersoncosta&hide_progress=true&theme=shadow_red" />
 </a>
 </div><br>
 
