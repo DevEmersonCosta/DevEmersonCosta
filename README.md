@@ -92,7 +92,7 @@
 
 <div align="center">
 </div>
-
+ <p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=DevEmersonCosta&style=for-the-badge&color=red" /></p>
 <br>
 <br>
 
