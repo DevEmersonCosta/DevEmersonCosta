@@ -63,12 +63,7 @@
 <br>
 
 <div align="center">
-<a href="https://github.com/devemersoncosta/github-readme-stats">
-  <img height=115 align="center" src="https://github-readme-stats.vercel.app/api?username=devemersoncosta&show_icons=false&theme=shadow_red" />
-</a>
-<a href="https://github.com/devemersoncosta/convoychat">
-  <img height=115 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devemersoncosta&hide_progress=true&theme=shadow_red" />
-</a>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=DevEmersonCosta&theme=shadow-red&border_radius=10&short_numbers=true" alt="GitHub Streak" /></a>
 </div>
 
 <br>
